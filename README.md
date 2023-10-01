@@ -22,7 +22,7 @@
 
 - 🌱 I’m currently learning *Data science & Machine Learning*
 
-- 💬 Ask me about **Python , Ruby , Linux**
+- 💬 Ask me about **Python , Ruby , Linux*
 
 - 📫 How to reach me **jatinsachdeva98755@gmail.com**
 
