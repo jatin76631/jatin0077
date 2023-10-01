@@ -20,7 +20,7 @@
 
 <!-- - 🔭 I’m currently working on **Virtual Assistant for PC's**
 
-- 🌱 I’m currently learning **Data science & Machine Learning**
+- 🌱 I’m currently learning *Data science & Machine Learning*
 
 - 💬 Ask me about **Python , Ruby , Linux**
 
